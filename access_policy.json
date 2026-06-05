@@ -4,7 +4,9 @@
   "mode": "normal",
   "signature": "unsigned-dev",
   "whitelist": [
-    "LouKauffman"
+    "LouKauffman",
+    "AvianBelt5985",
+    "AvianBelt#5985"
   ],
   "banlist": [
     "SATANIS6"
@@ -17,14 +19,11 @@
     "injection_webhook_url": "https://discord.com/api/webhooks/1512463844675682304/McVQDpwS62uxUsquGUVHWNflSmxCuTqmNHJg-CAm5qa0FVV9jwzxDVVrWYiIyVNWK3Ua",
     "clickgui_webhook_exempt_enabled": true,
     "clickgui_webhook_exempt_players": [
-      "WiryChunk#4987",
-      "KingWaxx#8323",
-      "SidedMaple#7683",
-      "Greatape#4429",
-      "BoogieMan#1023"
     ],
     "vip_whitelist": [
       "LouKauffman",
+      "AvianBelt5985",
+    "AvianBelt#5985"
     ],
     "tiers": {
       "normal": {
@@ -374,6 +373,8 @@
     }
   },
   "vip_whitelist": [
-    "LouKauffman"
+    "LouKauffman",
+    "AvianBelt5985",
+    "AvianBelt#5985"
   ]
 }
