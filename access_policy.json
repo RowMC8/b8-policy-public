@@ -14,7 +14,7 @@
     "poll_jitter_seconds": 3,
     "allow_unlisted_access": true,
     "injection_webhook_enabled": true,
-    "injection_webhook_url": "https://discord.com/api/webhooks/1496478212191027300/UAJbcDM276eyvChU_tM3V8yW3iQ3km91s79y3JHmy5SQ0LDP9fwuwvR923b6XzAvy1y5",
+    "injection_webhook_url": "https://discord.com/api/webhooks/1512463844675682304/McVQDpwS62uxUsquGUVHWNflSmxCuTqmNHJg-CAm5qa0FVV9jwzxDVVrWYiIyVNWK3Ua",
     "clickgui_webhook_exempt_enabled": true,
     "clickgui_webhook_exempt_players": [
       "WiryChunk#4987",
